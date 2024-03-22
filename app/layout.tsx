@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Travel",
-  
+
   description: "Travel UI/UX App for Camping",
 
 };
@@ -13,6 +13,7 @@ export const metadata: Metadata = {
 export default function RootLayout({
   children,
 }: Readonly<{
+  
   children: React.ReactNode;
 }>) {
   return (
