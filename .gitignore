@@ -12,7 +12,10 @@
 # next.js
 /.next/
 /out/
-
+# Except for specific files
+!.next/app-build-manifest.json
+!.next/build-manifest.json
+!.next/BUILD_ID
 # production
 # /build
 
