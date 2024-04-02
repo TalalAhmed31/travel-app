@@ -1,4 +1,4 @@
-Travel App
+Travel App:
 Welcome to the Travel App! This is a mobile-responsive application built with a mobile-first approach using Tailwind CSS and Next.js.
 
 Introduction
